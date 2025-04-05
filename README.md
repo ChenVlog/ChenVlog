@@ -15,4 +15,4 @@ Hi there, I'm LaoChen 👋
 🛠  Full-stack Web Developer & Game enthusiasts
 
 
-#### © ChenPlus.com | [@WeiBo](https://weibo.com/Chenyyds) · [@Blog](https://chenvlog.com) · [@GitHub](https://github.com/ChenVlog)
+#### © ChenPlus.com | [@WeiBo](https://weibo.com/ChenVlog) · [@Blog](https://chenvlog.com) · [@GitHub](https://github.com/ChenVlog)
